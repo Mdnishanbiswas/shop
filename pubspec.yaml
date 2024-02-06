@@ -1,0 +1,25 @@
+name: untitled
+description: Your project description
+
+# The following line should be uncommented and updated with your project's version.
+# version: 1.0.0
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  assets:
+    - assets/amex_logo.png
+    - assets/background_image.jpg
+    - assets/bkash_logo.png
+    - assets/mastercard_logo.png
+    - assets/rocket_logo.png
+    - assets/visa_logo.png
